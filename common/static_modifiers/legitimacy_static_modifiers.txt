@@ -1,0 +1,19 @@
+leg_abysmall_legitimacy = {
+
+}
+
+leg_low_legitimacy = {
+
+}
+
+leg_normal_legitimacy = {
+  terraforming_cost_mult = 0.10
+}
+
+leg_high_legitimacy = {
+
+}
+
+leg_maximum_legitimacy = {
+
+}

@@ -1,0 +1,15 @@
+namespace = leg
+
+event = {
+  id = leg.1
+  hide_window = yes
+
+  fire_only_once = yes
+
+  immediate = {
+    every_country = {
+      set_variable = { which = leg_legitimacy value = 50 }
+      add_modifier = { modifier = leg_normal_legitimacy days = -1}
+    }
+  }
+}
